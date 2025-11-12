@@ -6,7 +6,7 @@ It demonstrates the complete ML workflow — from data preprocessing and explora
 
 This project is ideal for understanding how credit risk models work and how ML can assist in automating financial decisions.
 
- ##Features
+ ## Features
 
   Data Preprocessing & Cleaning – Handling missing values, outliers, and categorical encoding.
   Exploratory Data Analysis (EDA) – Visual insights into customer behavior and credit score distribution.
@@ -27,6 +27,5 @@ Annual income
 Loan history
 Number of credit accounts
 Credit utilization rate
-
 Payment history
 to estimate a user’s likelihood of maintaining a good or poor credit score.
