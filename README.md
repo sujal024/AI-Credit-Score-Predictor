@@ -1,12 +1,12 @@
-///AI Credit Score Predictor
- //Description
+***AI Credit Score Predictor***
+ **Description**
 
 AI Credit Score Predictor is a machine learning project that predicts an individual's credit score based on their financial, behavioral, and demographic data.
 It demonstrates the complete ML workflow — from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and deployment through a simple prediction app interface.
 
 This project is ideal for understanding how credit risk models work and how ML can assist in automating financial decisions.
 
- //Features
+ **Features**
 
   Data Preprocessing & Cleaning – Handling missing values, outliers, and categorical encoding.
   Exploratory Data Analysis (EDA) – Visual insights into customer behavior and credit score distribution.
@@ -20,7 +20,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Environment: Jupyter Notebook
 Deployment (optional): Streamlit / Flask
 
-📈 Model Insights
+**Model Insights**
 
 The model analyzes various features such as:
 Annual income
